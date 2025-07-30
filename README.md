@@ -1,5 +1,9 @@
 <div align="center">
-  <h2><a href="https://adcasa.io" style="color:#007AFF; text-decoration:none;">Your AI Co-pilot for Growth</a></h2>
+  <img src="https://adcasa.io/images/logo/adcasa.io-logo-500x500.png" alt="adCasa Logo" width="150"/>
+  <h1>adCasa</h1>
+  
+  <!-- Static Text Replacement for the Slogan -->
+  <h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 600; font-size: 22px; color: #007AFF; text-align: center;">Your AI Co-pilot for Growth</h2>
   
   <p>
     <!-- Badges themed with your primary accent color -->
@@ -57,19 +61,7 @@ At adCasa, we are democratizing digital marketing. Our mission is to build sophi
 
 We are passionate about leveraging cutting-edge technology to solve real-world marketing challenges. Our flagship product, **adGPT**, is built on a foundation of advanced AI and seamless API integrations to deliver a powerful, data-driven experience.
 
-<div align="center" style="background-color: #f8f8f8; border: 1px solid #dcdcdc; border-radius: 8px; padding: 16px; margin-top: 16px;">
-  <p>
-    <img src="https://img.shields.io/badge/Google_Cloud-007AFF?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-    <img src="https://img.shields.io/badge/Vertex_AI-007AFF?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  </p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adcasagit&layout=compact&theme=transparent&border_color=007AFF&title_color=007AFF&text_color=555555&bg_color=f8f8f8" alt="adCasa's Top Languages"/>
-  </a>
-</div>
+<!-- The technology badges and stats card section has been removed as requested. -->
 
 <!-- Custom SVG Header for "Get in Touch" (Embedded) -->
 <p align="center">
