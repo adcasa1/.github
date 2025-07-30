@@ -44,5 +44,5 @@ Our products are proprietary and designed for commercial use. To learn more abou
 ---
 
 <div align="center">
-  <p>Copyright © 2024 adCasa LTD. All Rights Reserved.</p>
+  <p>Copyright © 2025 adCasa LTD. All Rights Reserved.</p>
 </div>
