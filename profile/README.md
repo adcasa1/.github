@@ -2,10 +2,6 @@
   <img src="https://adcasa.io/images/logo/adcasa.io-logo-500x500.png" alt="adCasa Logo" width="200"/>
   <h1>adCasa</h1>
   <p><strong>Your AI Co-pilot for Growth</strong></p>
-</div>
-
-<div align="center">
-  <img src="https://adcasa.io/images/logo/adcasa.io-logo-500x500.png" alt="adCasa Logo" width="200"/>
   
   [![Website](https://img.shields.io/badge/Website-adcasa.io-blue?style=for-the-badge&logo=google-chrome)](https://adcasa.io/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-adcasa-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/adcasa)
