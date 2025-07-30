@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://adcasa.io/images/logo/adcasa.io-logo-500x500.png" alt="adCasa Logo" width="150"/>
-  <h1>adCasa</h1>
-  
-  <!-- Dynamic Typing SVG for the Slogan (URL corrected for centering) -->
-  <a href="https://adcasa.io">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=22&color=007AFF¢er=true&vCenter=true&width=435&lines=Your+AI+Co-pilot+for+Growth" alt="Your AI Co-pilot for Growth" />
-  </a>
+  <h2><a href="https://adcasa.io" style="color:#007AFF; text-decoration:none;">Your AI Co-pilot for Growth</a></h2>
   
   <p>
     <!-- Badges themed with your primary accent color -->
