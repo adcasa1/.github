@@ -17,17 +17,13 @@
 
 ---
 
-<!-- Custom SVG Header for "Our Mission" (Embedded) -->
-<p align="center">
-  <img src="data:image/svg+xml;utf8,<svg fill='none' viewBox='0 0 800 100' width='800' height='100' xmlns='http://www.w3.org/2000/svg'><foreignObject width='100%' height='100%'><div xmlns='http://www.w3.org/1999/xhtml'><style>.container{font-family:'Segoe UI',sans-serif;font-size:28px;font-weight:600;color:%23007AFF;text-align:center;display:flex;align-items:center;justify-content:center;height:100%}.icon{font-size:32px;margin-right:12px}</style><div class='container'><span class='icon'>🚀</span><span>Our Mission</span></div></div></foreignObject></svg>" alt="Our Mission Header" />
-</p>
+<!-- SECTION HEADER: Our Mission -->
+<h2 align="center">🚀 Our Mission</h2>
 
 At adCasa, we are democratizing digital marketing. Our mission is to build sophisticated, AI-powered tools that are accessible and intuitive for marketers of all skill levels. We empower businesses to automate their advertising lifecycle, turning complex data into clear, actionable insights and high-performing campaigns.
 
-<!-- Custom SVG Header for "Get Started" (Embedded) -->
-<p align="center">
-  <img src="data:image/svg+xml;utf8,<svg fill='none' viewBox='0 0 800 100' width='800' height='100' xmlns='http://www.w3.org/2000/svg'><foreignObject width='100%' height='100%'><div xmlns='http://www.w3.org/1999/xhtml'><style>.container{font-family:'Segoe UI',sans-serif;font-size:28px;font-weight:600;color:%23007AFF;text-align:center;display:flex;align-items:center;justify-content:center;height:100%}.icon{font-size:32px;margin-right:12px}</style><div class='container'><span class='icon'>📈</span><span>Get Started with adGPT</span></div></div></foreignObject></svg>" alt="Get Started Header" />
-</p>
+<!-- SECTION HEADER: Get Started with adGPT -->
+<h2 align="center">📈 Get Started with adGPT</h2>
 
 <!-- START: Redesigned Feature Cards -->
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
@@ -54,19 +50,13 @@ At adCasa, we are democratizing digital marketing. Our mission is to build sophi
 </table>
 <!-- END: Redesigned Feature Cards -->
 
-<!-- Custom SVG Header for "About Our Technology" (Embedded) -->
-<p align="center">
-  <img src="data:image/svg+xml;utf8,<svg fill='none' viewBox='0 0 800 100' width='800' height='100' xmlns='http://www.w3.org/2000/svg'><foreignObject width='100%' height='100%'><div xmlns='http://www.w3.org/1999/xhtml'><style>.container{font-family:'Segoe UI',sans-serif;font-size:28px;font-weight:600;color:%23007AFF;text-align:center;display:flex;align-items:center;justify-content:center;height:100%}.icon{font-size:32px;margin-right:12px}</style><div class='container'><span class='icon'>✨</span><span>Our Technology Stack</span></div></div></foreignObject></svg>" alt="About Our Technology Header" />
-</p>
+<!-- SECTION HEADER: Our Technology Stack -->
+<h2 align="center">✨ Our Technology Stack</h2>
 
 We are passionate about leveraging cutting-edge technology to solve real-world marketing challenges. Our flagship product, **adGPT**, is built on a foundation of advanced AI and seamless API integrations to deliver a powerful, data-driven experience.
 
-<!-- The technology badges and stats card section has been removed as requested. -->
-
-<!-- Custom SVG Header for "Get in Touch" (Embedded) -->
-<p align="center">
-  <img src="data:image/svg+xml;utf8,<svg fill='none' viewBox='0 0 800 100' width='800' height='100' xmlns='http://www.w3.org/2000/svg'><foreignObject width='100%' height='100%'><div xmlns='http://www.w3.org/1999/xhtml'><style>.container{font-family:'Segoe UI',sans-serif;font-size:28px;font-weight:600;color:%23007AFF;text-align:center;display:flex;align-items:center;justify-content:center;height:100%}.icon{font-size:32px;margin-right:12px}</style><div class='container'><span class='icon'>📞</span><span>Get in Touch</span></div></div></foreignObject></svg>" alt="Get in Touch Header" />
-</p>
+<!-- SECTION HEADER: Get in Touch -->
+<h2 align="center">📞 Get in Touch</h2>
 
 <p align="center">
   <a href="https://adcasa.io/"><strong>Website</strong></a>   |  
