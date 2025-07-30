@@ -81,11 +81,11 @@ We welcome contributions from the community! Please see our contributing guideli
 
 ## 👥 Team
 
-- **AI Backend Developer**: Isaac Emmanuel
-- **AI Integration**: Siddesh Jammi
-- **Development**: Jawad, Mohammed Usman
+- **AI Backend Developer**: adCasa AI Team
+- **AI Integration**: Integration Squad
+- **Development**: Core Dev Team
 - **Business Development**: adCasa Team
-- **Founder**: Sandro Maurício
+- **Founder**: Founding Team
 
 ## 📄 License
 
