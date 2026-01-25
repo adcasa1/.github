@@ -1,74 +1,159 @@
+<!-- HEADER / HERO SECTION -->
 <div align="center">
-  <img src="https://adcasa.io/images/logo/adcasa.io-logo-500x500.png" alt="adCasa Logo" width="150"/>
-  <h1>adCasa</h1>
+  <a href="https://adgpt.adcasa.io/">
+    <img src="https://adcasa.io/images/logo/adcasa.io-logo-500x500.png" alt="adCasa Logo" width="120"/>
+  </a>
   
-  <!-- Static Text Replacement for the Slogan -->
-  <h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 600; font-size: 22px; color: #007AFF; text-align: center;">Your AI Co-pilot for Growth</h2>
+  <h1 style="border-bottom: none;">adCasa | adGPT</h1>
   
+  <!-- DYNAMIC TAGLINE -->
+  <h3 style="font-family: 'Inter', sans-serif; font-weight: 500; font-size: 1.2rem; color: #5f6368;">
+    The Autonomous Marketing Workforce.
+  </h3>
+
   <p>
-    <!-- Badges themed with your primary accent color -->
-    <a href="https://adcasa.io/"><img alt="Website" src="https://img.shields.io/badge/Website-adcasa.io-007AFF?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-    <a href="https://linkedin.com/company/adcasa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adCasa-007AFF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://instagram.com/adcasa.official"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adcasa.official-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://youtube.com/@adcasa1"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-adCasa-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-    <a href="https://tiktok.com/@adcasa.io"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-adcasa.io-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+    <strong>Plan. Create. Execute. Fix.</strong><br/>
+    Stop managing tools. Hire the Agent that unites Media Buying, Analytics, and Creative Generation.
   </p>
+
+  <!-- CTA BUTTONS -->
+  <a href="https://adgpt.adcasa.io/">
+    <img src="https://img.shields.io/badge/GET_150_FREE_CREDITS-64b5f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Get Started" />
+  </a>
+  <a href="https://adcasa.io">
+    <img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-0f1115?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+  </a>
 </div>
+
+<br/>
+
+<!-- SOCIAL PROOF / TRUST BADGES -->
+<div align="center">
+  <a href="https://linkedin.com/company/adcasa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/adcasa.official"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://youtube.com/@adcasa1"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://tiktok.com/@adcasa.io"><img src="https://img.shields.io/badge/TikTok-Watch-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+</div>
+
+<hr />
+
+<!-- MISSION STATEMENT -->
+<h2 align="center">📡 The Agentic Revolution</h2>
+
+> **"We believe that 'Creative' and 'Data' should never be separated."**
+
+Marketing has become too complex for humans to manage manually. **adGPT** is not a tool; it is a **Self-Healing Infrastructure**. It detects budget anomalies, broken URLs, and performance drops instantly—and executes the fix automatically via API.
 
 ---
 
-<!-- SECTION HEADER: Our Mission -->
-<h2 align="center">🚀 Our Mission</h2>
+<!-- FEATURES GRID (Centered HTML Table) -->
+<h2 align="center">⚡ Core Capabilities</h2>
 
-At adCasa, we are democratizing digital marketing. Our mission is to build sophisticated, AI-powered tools that are accessible and intuitive for marketers of all skill levels. We empower businesses to automate their advertising lifecycle, turning complex data into clear, actionable insights and high-performing campaigns.
-
-<!-- SECTION HEADER: Get Started with adGPT -->
-<h2 align="center">📈 Get Started with adGPT</h2>
-
-<!-- START: Redesigned Feature Cards -->
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<table align="center" width="100%" border="0">
   <tr>
-    <td width="33.33%" valign="top" style="padding: 8px;">
-      <div style="background-color: #f8f8f8; border: 1px solid #dcdcdc; border-left: 5px solid #007AFF; border-radius: 8px; padding: 16px; min-height: 150px; display: flex; flex-direction: column; justify-content: center;">
-        <h3 align="center">🗣️ Ask & Understand</h3>
-        <p align="center" style="color: #555555;">Interact with your marketing data using plain English. Get instant insights without navigating complex dashboards.</p>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🧠 Unified Intelligence</h3>
+        <p><strong>Bayesian Causal Inference</strong></p>
+        <p>Don't just track clicks. Understand profit. We correlate Paid Search, SEO, and Analytics data into one source of truth using proprietary probability models.</p>
       </div>
     </td>
-    <td width="33.33%" valign="top" style="padding: 8px;">
-      <div style="background-color: #f8f8f8; border: 1px solid #dcdcdc; border-left: 5px solid #007AFF; border-radius: 8px; padding: 16px; min-height: 150px; display: flex; flex-direction: column; justify-content: center;">
-        <h3 align="center">🤖 Create & Automate</h3>
-        <p align="center" style="color: #555555;">Generate complete, high-performing ad campaigns from a single prompt in minutes, not days.</p>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🛡️ Self-Healing Infra</h3>
+        <p><strong>Automated Diagnostics</strong></p>
+        <p>Sleep soundly. The Agent monitors your account 24/7. If a URL breaks or a budget caps out, adGPT detects it and executes the API fix instantly.</p>
       </div>
     </td>
-    <td width="33.33%" valign="top" style="padding: 8px;">
-      <div style="background-color: #f8f8f8; border: 1px solid #dcdcdc; border-left: 5px solid #007AFF; border-radius: 8px; padding: 16px; min-height: 150px; display: flex; flex-direction: column; justify-content: center;">
-        <h3 align="center">📈 Predict & Optimize</h3>
-        <p align="center" style="color: #555555;">Use AI forecasting to understand potential ROAS before you spend, ensuring every dollar is effective.</p>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🎨 Infinite Creative</h3>
+        <p><strong>Generative Studio</strong></p>
+        <p>Text, Image, Video, Audio. Generate high-converting assets for PMax and Demand Gen campaigns without leaving the interface.</p>
       </div>
     </td>
   </tr>
 </table>
-<!-- END: Redesigned Feature Cards -->
-
-<!-- SECTION HEADER: Our Technology Stack -->
-<h2 align="center">✨ Our Technology Stack</h2>
-
-We are passionate about leveraging cutting-edge technology to solve real-world marketing challenges. Our flagship product, **adGPT**, is built on a foundation of advanced AI and seamless API integrations to deliver a powerful, data-driven experience.
-
-<!-- SECTION HEADER: Get in Touch -->
-<h2 align="center">📞 Get in Touch</h2>
-
-<p align="center">
-  <a href="https://adcasa.io/"><strong>Website</strong></a>   |  
-  <a href="mailto:hi@adcasa.io"><strong>Email</strong></a>   |  
-  <a href="https://linkedin.com/company/adcasa"><strong>LinkedIn</strong></a>   |  
-  <a href="https://youtube.com/@adcasa1"><strong>YouTube</strong></a>   |  
-  <a href="https://tiktok.com/@adcasa.io"><strong>TikTok</strong></a>   |  
-  <a href="https://pinterest.com/adcasaofficial/"><strong>Pinterest</strong></a>
-</p>
 
 ---
 
+<!-- EXECUTION ARCHITECTURE -->
+<h2 align="center">🛠️ Execution Architecture</h2>
+
+### 1. Ask & Understand (Natural Language API)
+Interact with your marketing data using plain English.
+> *"Compare my SEO traffic to my Ad spend in London."*
+The Agent queries live APIs (GA4, GSC, Google Ads) to return a synthesized answer.
+
+### 2. Autonomous Execution (Write Access)
+Move from insight to action.
+> *"Pause losing keywords."*
+> *"Scale budget by 20% on winning campaigns."*
+adGPT executes the precise API transactions for you. No manual dashboard navigation required.
+
+---
+
+<!-- PRICING SUMMARY (STRICTLY CENTERED HTML) -->
 <div align="center">
-  <p>Copyright © 2024 adCasa LTD. All Rights Reserved.</p>
+  <h2>💎 Tier 1 Enterprise Access</h2>
+  
+  <table align="center">
+    <thead>
+        <tr>
+            <th align="center" width="200">Starter</th>
+            <th align="center" width="200">Professional (Popular)</th>
+            <th align="center" width="200">Agency</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center"><strong>$0 / month</strong></td>
+            <td align="center"><strong>$29 / month</strong></td>
+            <td align="center"><strong>$99 / month</strong></td>
+        </tr>
+        <tr>
+            <td align="center">150 Credits</td>
+            <td align="center">500 Credits</td>
+            <td align="center">2,000 Credits</td>
+        </tr>
+        <tr>
+            <td align="center">Basic Creative Studio</td>
+            <td align="center"><strong>Self-Healing Infra</strong></td>
+            <td align="center"><strong>Bayesian Inference</strong></td>
+        </tr>
+        <tr>
+            <td align="center">Performance Reporting</td>
+            <td align="center">Cross-Platform Exec</td>
+            <td align="center">Multi-Client (MCC)</td>
+        </tr>
+        <tr>
+            <td align="center"><br/><a href="https://adgpt.adcasa.io/"><strong>Get Started</strong></a></td>
+            <td align="center"><br/><a href="https://adgpt.adcasa.io/"><strong>Upgrade Now</strong></a></td>
+            <td align="center"><br/><a href="https://adgpt.adcasa.io/"><strong>Contact Sales</strong></a></td>
+        </tr>
+    </tbody>
+  </table>
+
+  <br/>
+  <p><em>🎉 <strong>Founding Member Status:</strong> Use code <code>FOUNDER50</code> for 50% off (First 100 users).</em></p>
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <br />
+  <p>
+    <strong>adCasa Ltd</strong><br/>
+    Registered in England & Wales (Company No: 15689937)<br/>
+    71-75 Shelton Street, Covent Garden, London, WC2H 9JQ
+  </p>
+  
+  <p>
+    <a href="https://adcasa.io/privacy">Privacy Policy</a> • 
+    <a href="https://adcasa.io/terms">Terms of Service</a> • 
+    <a href="mailto:hi@adcasa.io">Support</a>
+  </p>
+
+  <p>© 2026 adCasa Ltd. All rights reserved.</p>
 </div>
