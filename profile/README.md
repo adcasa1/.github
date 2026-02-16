@@ -152,7 +152,7 @@ adGPT executes the precise API transactions for you. No manual dashboard navigat
   <p>
     <a href="https://adcasa.io/privacy">Privacy Policy</a> • 
     <a href="https://adcasa.io/terms">Terms of Service</a> • 
-    <a href="mailto:hi@adcasa.io">Support</a>
+    <a href="https://support.adcasa.io/">Support</a>
   </p>
 
   <p>© 2026 adCasa Ltd. All rights reserved.</p>
