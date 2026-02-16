@@ -113,8 +113,8 @@ adGPT executes the precise API transactions for you. No manual dashboard navigat
         </tr>
         <tr>
             <td align="center">150 Credits</td>
-            <td align="center">500 Credits</td>
-            <td align="center">2,000 Credits</td>
+            <td align="center">1,500 Credits</td>
+            <td align="center">6,000 Credits</td>
         </tr>
         <tr>
             <td align="center">Basic Creative Studio</td>
