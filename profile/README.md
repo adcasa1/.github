@@ -8,7 +8,7 @@
   
   <!-- DYNAMIC TAGLINE -->
   <h3 style="font-family: 'Inter', sans-serif; font-weight: 500; font-size: 1.2rem; color: #5f6368;">
-    Your AI Marketing OS.
+    Your AI Marketing OS
   </h3>
 
   <p>
