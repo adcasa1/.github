@@ -4,19 +4,19 @@
     <img src="https://adcasa.io/images/logo/adcasa.io-logo-500x500.png" alt="adGPT Logo" width="120"/>
   </a>
   
-  <h1 style="border-bottom: none;">adGPT : The AI Marketing OS</h1>
+  <h1 style="border-bottom: none;">adGPT | Your AI Marketing OS</h1>
   
   <!-- TERMINAL BOOT SEQUENCE -->
   <p><code style="color: #10b981; background: rgba(16,185,129,0.1); padding: 4px 8px;">&gt; bash: sys.boot("Human Strategy. Machine Speed.")</code></p>
 
   <p>
     <strong>Plan. Create. Execute. Fix.</strong><br/>
-    Stop managing fragmented tools. Deploy the Operating System that unites Media Buying, <br/>Causal Analytics, and Creative Generation on an infinite canvas.
+    Stop managing fragmented tools. Log into the workspace that unites Media Buying, <br/>Causal Analytics, and Creative Generation on an infinite canvas.
   </p>
 
   <!-- CTA BUTTONS -->
   <a href="https://adgpt.adcasa.io/">
-    <img src="https://img.shields.io/badge/Deploy_OS_--_Free-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Deploy OS - Free" />
+    <img src="https://img.shields.io/badge/Start_for_free-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Start for free" />
   </a>
   <a href="https://adcasa.io">
     <img src="https://img.shields.io/badge/Official_Website-0f1115?style=for-the-badge&logo=firefox&logoColor=white" alt="Official Website" />
@@ -135,15 +135,15 @@ Move from insight to action with absolute confidence.
             <td align="center">30% Discount on Top-Ups</td>
         </tr>
         <tr>
-            <td align="center"><br/><a href="https://adgpt.adcasa.io/"><strong>Deploy OS</strong></a></td>
-            <td align="center"><br/><a href="https://adgpt.adcasa.io/"><strong>Upgrade Workforce</strong></a></td>
-            <td align="center"><br/><a href="https://adgpt.adcasa.io/"><strong>Deploy at Scale</strong></a></td>
+            <td align="center"><br/><a href="https://adgpt.adcasa.io/"><strong>Start for free</strong></a></td>
+            <td align="center"><br/><a href="https://adgpt.adcasa.io/"><strong>Choose Pro</strong></a></td>
+            <td align="center"><br/><a href="https://adgpt.adcasa.io/"><strong>Choose Agency</strong></a></td>
         </tr>
     </tbody>
   </table>
 
   <br/>
-  <p><em>🎉 <strong>Founding Operator Status:</strong> Use code <code>FOUNDER50</code> for 50% off (First 100 workspaces).</em></p>
+  <p><em>🎉 <strong>Founder Offer:</strong> Use code <code>FOUNDER50</code> for 50% off your first month.</em></p>
 </div>
 
 ---
