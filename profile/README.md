@@ -116,8 +116,8 @@ Move from insight to action with absolute confidence.
     <tbody>
         <tr>
             <td align="center"><strong>$0 / month</strong></td>
-            <td align="center"><strong>$29 / month</strong></td>
-            <td align="center"><strong>$99 / month</strong></td>
+            <td align="center"><strong>$49 / month</strong></td>
+            <td align="center"><strong>$149 / month</strong></td>
         </tr>
         <tr>
             <td align="center">150 Credits</td>
