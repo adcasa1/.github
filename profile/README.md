@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://app.adcasa.io/">
+  <a href="https://adcasa.io/">
     <img src="https://adcasa.io/images/logo/adcasa.io-logo-500x500.png" alt="adCasa Logo" width="110" />
   </a>
   
@@ -14,7 +14,7 @@
   </p>
 
   <p>
-    <a href="https://app.adcasa.io/">
+    <a href="https://adcasa.io/">
       <img src="https://img.shields.io/badge/Start_for_free-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Start for free" />
     </a>
     <a href="https://adcasa.io/">
@@ -117,7 +117,7 @@ We don't paywall features. Every tier receives full access to the entire operati
 | **Monthly Compute** | Standard Rates | **1,500 Credits** | **6,000 Credits** |
 | **OS Access** | Full OS | Full OS | Full OS |
 | **Top-Up Discount** | Standard | **20% Discount** | **30% Discount** |
-| **Action** | [Start for Free](https://adcasa.io/) | [Choose Pro](https://adcasa.io/) | [Choose Agency](https://adcasa.io/) |
+| **Action** | [Start for Free](https://adcasa.io/pricing) | [Choose Pro](https://adcasa.io/pricing) | [Choose Agency](https://adcasa.io/pricing) |
 
 > [!TIP]
 > 🚀 **Founder Offer:** Use promo code `FOUNDER50` at checkout for **50% off** your first month on any paid plan.
