@@ -107,7 +107,6 @@ graph LR
 + [ACTION DRAFTED] Proposal: Shift $1,200/day from Meta campaign #4902 to Google Search exact match.
 ! [AWAITING APPROVAL] Human Operator verification required before API execution.
 
-
 ---
 
 ## 🌐 Connected Ecosystem & Integrations
@@ -163,7 +162,7 @@ Our engine leverages Google's **Meridian MMM** framework to calculate true incre
 * **Hill Transformed Curves:** Prevents diminishing returns by dynamically detecting ad spend saturation thresholds.
 * **Counterfactual Baselines:** Calculates what revenue would have occurred *without* paid media spend to eliminate organic cannibalization.
 
-> sys.run_meridian --dataset="q3_omnichannel" --chains=4 --draws=2000
+sys.run_meridian --dataset="q3_omnichannel" --chains=4 --draws=2000
 [COMPUTE] Bayesian sampling complete. Divergences: 0. R-hat: < 1.01.
 [RESULT] Incremental ROAS verified across 4 channels. Baseline ROI updated.
 
