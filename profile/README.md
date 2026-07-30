@@ -110,6 +110,8 @@ Over **150+ pre-built action nodes** across your entire marketing stack:
 
 We don't paywall features. Every tier receives full access to the entire operating system, all AI models, and all integrations. You only pay for the compute power (credits) your team actually consumes.
 
+<div align="center">
+
 | Feature / Tier | Pay-As-You-Go | Professional (Popular) | Agency |
 | :--- | :---: | :---: | :---: |
 | **Monthly Price** | **$0** | **$49** / mo | **$149** / mo |
@@ -118,6 +120,8 @@ We don't paywall features. Every tier receives full access to the entire operati
 | **OS Access** | Full OS | Full OS | Full OS |
 | **Top-Up Discount** | Standard | **20% Discount** | **30% Discount** |
 | **Action** | [Start for Free](https://adcasa.io/pricing) | [Choose Pro](https://adcasa.io/pricing) | [Choose Agency](https://adcasa.io/pricing) |
+
+</div>
 
 > [!TIP]
 > 🚀 **Founder Offer:** Use promo code `FOUNDER50` at checkout for **50% off** your first month on any paid plan.
