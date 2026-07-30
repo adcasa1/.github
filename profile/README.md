@@ -94,7 +94,7 @@ SANDBOX TEST │ │ LOOP APPROVAL │ └────────────�
 
 ### 1. Connect Infrastructure & Audit
 Link Google Ads, Meta, LinkedIn, and your CRM. The OS instantly ingests historical data to establish your performance baseline and identify budget leaks.
-```bash
+
 > sys.audit --target="meta_ads" --metric="incremental_roas"
 [OK] Meridian MMM calculated: Meta over-attribution detected (14% cannibalization).
 
