@@ -99,7 +99,7 @@ Over **150+ pre-built action nodes** across your entire marketing stack:
 
 | Category | Supported Native Connectors |
 | :--- | :--- |
-| **AdTech & Paid Media** | Google Ads, Meta Ads, LinkedIn Ads, Search Console |
+| **AdTech & Paid Media** | Google Ads, Meta Ads, LinkedIn Ads, Search Console, Open AI Ads |
 | **Analytics & Yield** | Google Analytics 4 (GA4), Meridian MMM, Custom SQL |
 | **Comms & Sales Ops** | Slack, Telegram, Email / SMTP, Stripe Connect |
 | **Google Workspace** | Google Sheets, Google Docs, Google Drive |
@@ -117,7 +117,7 @@ We don't paywall features. Every tier receives full access to the entire operati
 | **Monthly Compute** | Standard Rates | **1,500 Credits** | **6,000 Credits** |
 | **OS Access** | Full OS | Full OS | Full OS |
 | **Top-Up Discount** | Standard | **20% Discount** | **30% Discount** |
-| **Action** | [Start for Free](https://app.adcasa.io/) | [Choose Pro](https://app.adcasa.io/) | [Choose Agency](https://app.adcasa.io/) |
+| **Action** | [Start for Free](https://adcasa.io/) | [Choose Pro](https://adcasa.io/) | [Choose Agency](https://adcasa.io/) |
 
 > [!TIP]
 > 🚀 **Founder Offer:** Use promo code `FOUNDER50` at checkout for **50% off** your first month on any paid plan.
