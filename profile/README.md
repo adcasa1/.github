@@ -95,6 +95,7 @@ graph LR
     classDef approval fill:#0f172a,stroke:#f59e0b,stroke-width:2px,color:#fff;
     classDef execute fill:#0f172a,stroke:#10b981,stroke-width:2px,color:#fff;
 
+graph LR
     A["📡 1. Ingest API Data"] :::ingest --> B["🧪 2. Meridian MMM Simulation"] :::simulate
     B --> C["🛡️ 3. Human-in-the-Loop Review"] :::approval
     C --> D["🚀 4. Live Verified Execution"] :::execute
@@ -172,7 +173,6 @@ sys.run_meridian --dataset="q3_omnichannel" --chains=4 --draws=2000
 
 ## 📜 Live Engineering Ship Log
 
-```diff
 + [BACKEND]  Refactor Universal Core and Integrate Meridian MMM v1.0 [DEPLOYED]
 + [AI_CORE]  Implement AI self-healing and complete Shopping Ad module [DEPLOYED]
 ! [PIPELINE] Harden real-time asset generation and unify socket services [MERGED]
