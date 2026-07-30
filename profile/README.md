@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://adcasa.io/">
+  <a href="https://adcasa.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://adcasa.io/images/logo/adcasa.io-logo-500x500.png" alt="adCasa Logo" width="110" />
   </a>
   
@@ -14,10 +14,10 @@
   </p>
 
   <p>
-    <a href="https://adcasa.io/">
+    <a href="https://adcasa.io/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Start_for_free-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Start for free" />
     </a>
-    <a href="https://adcasa.io/">
+    <a href="https://adcasa.io/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Official_Website-0f172a?style=for-the-badge&logo=firefox&logoColor=white" alt="Official Website" />
     </a>
   </p>
@@ -28,11 +28,11 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/company/adcasa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/orgs/adcasa1/"><img src="https://img.shields.io/badge/GitHub-Organization-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/adcasa.official/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/adcasaofficial"><img src="https://img.shields.io/badge/Facebook-Community-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://support.adcasa.io/"><img src="https://img.shields.io/badge/Support-Terminal-10b981?style=flat-square&logo=googlecloud&logoColor=white" alt="Support" /></a>
+  <a href="https://www.linkedin.com/company/adcasa/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/orgs/adcasa1/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Organization-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/adcasa.official/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/adcasaofficial" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-Community-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://support.adcasa.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Support-Terminal-10b981?style=flat-square&logo=googlecloud&logoColor=white" alt="Support" /></a>
 </div>
 
 ---
@@ -142,10 +142,10 @@ We don't paywall features. Every tier receives full access to the entire operati
     London HQ: 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom
   </p>
   <p>
-    <a href="https://adcasa.io/">Website</a> • 
-    <a href="https://www.policies.adcasa.io/privacy-policy.php">Privacy Policy</a> • 
-    <a href="https://www.policies.adcasa.io/terms-of-service.php">Terms of Service</a> • 
-    <a href="https://support.adcasa.io/">Support Terminal</a>
+    <a href="https://adcasa.io/" target="_blank" rel="noopener noreferrer">Website</a> • 
+    <a href="https://www.policies.adcasa.io/privacy-policy.php" target="_blank" rel="noopener noreferrer">Privacy Policy</a> • 
+    <a href="https://www.policies.adcasa.io/terms-of-service.php" target="_blank" rel="noopener noreferrer">Terms of Service</a> • 
+    <a href="https://support.adcasa.io/" target="_blank" rel="noopener noreferrer">Support Terminal</a>
   </p>
   <p><sub><em>© 2026 adCasa Ltd. All rights reserved. Powered by Google Cloud Vertex AI.</em></sub></p>
 </div>
