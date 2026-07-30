@@ -94,12 +94,9 @@ graph LR
     classDef simulate fill:#0f172a,stroke:#8b5cf6,stroke-width:2px,color:#fff;
     classDef approval fill:#0f172a,stroke:#f59e0b,stroke-width:2px,color:#fff;
     classDef execute fill:#0f172a,stroke:#10b981,stroke-width:2px,color:#fff;
-
-graph LR
     A["📡 1. Ingest API Data"] :::ingest --> B["🧪 2. Meridian MMM Simulation"] :::simulate
     B --> C["🛡️ 3. Human-in-the-Loop Review"] :::approval
     C --> D["🚀 4. Live Verified Execution"] :::execute
-
 
 + [OK] Live APIs Connected: Google Ads, Meta Ads, LinkedIn, GA4, Stripe
 ! [AUDIT] Running Bayesian Causal Inference on Meta Ads campaign #4902...
@@ -162,7 +159,7 @@ Our engine leverages Google's **Meridian MMM** framework to calculate true incre
 * **Hill Transformed Curves:** Prevents diminishing returns by dynamically detecting ad spend saturation thresholds.
 * **Counterfactual Baselines:** Calculates what revenue would have occurred *without* paid media spend to eliminate organic cannibalization.
 
-
+graph LR
 sys.run_meridian --dataset="q3_omnichannel" --chains=4 --draws=2000
 [COMPUTE] Bayesian sampling complete. Divergences: 0. R-hat: < 1.01.
 [RESULT] Incremental ROAS verified across 4 channels. Baseline ROI updated.
